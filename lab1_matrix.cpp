@@ -1,3 +1,4 @@
+Lab1/
 #include <iostream>
 #include <sys/time.h>
 #include <cmath>
